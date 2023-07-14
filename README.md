@@ -1,7 +1,6 @@
 This app is using ReactJS for the interface with JavaScript. The data from Todo lists are from Firebase Firestore.
 
-You need:
-
+You need: <br/>
 Firebase
 
 Tailwind
