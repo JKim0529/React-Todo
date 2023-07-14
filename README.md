@@ -1,13 +1,10 @@
 This app is using ReactJS for the interface with JavaScript. The data from Todo lists are from Firebase Firestore.
 
 You need: <br/>
-Firebase
-
-Tailwind
-
-React-dom
-
-React-icons
+Firebase<br/>
+Tailwind<br/>
+React-dom<br/>
+React-icons<br/>
 
 Installed using npm
 
